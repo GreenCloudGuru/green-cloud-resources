@@ -14,10 +14,16 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Websites
 
-## Public Cloud Best Practices
-* 
+## Public Cloud
+* [Google Cloud](https://cloud.google.com/sustainability)
+* [Microsoft Azure](https://azure.microsoft.com/en-gb/global-infrastructure/sustainability/)
+* [Amazon Web Services](https://aws.amazon.com/sustainability/)
 
 ## Assessment Tools
+* [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
+* [Microsoft Sustainability Calculator](https://azure.microsoft.com/en-gb/blog/microsoft-sustainability-calculator-helps-enterprises-analyze-the-carbon-emissions-of-their-it-infrastructure/)
+* [AWS Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/)
+* [Cloud Carbon Footprint (Open Source)](https://www.cloudcarbonfootprint.org/)
 
 ## Podcasts
 * [Environment Variables (GSF)](https://podcast.greensoftware.foundation/)
