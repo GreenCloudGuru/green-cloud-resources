@@ -1,14 +1,16 @@
 # Green Cloud Resources
+
 A collection of resources for sustainable technology especially on the public cloud.
 
 Please feel welcome to add via a pull request.
 
-![logo.png](images/logo.png)
+<img src="images/logo.png" alt="Green Cloud Guru Logo" width="100"/>
+
+Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Organisations
 * [Green Software Foundation (GSF)](https://greensoftware.foundation/)
 * [Green Web Foundation](https://www.thegreenwebfoundation.org/)
-* [Green Cloud Guru](https://greencloud.guru)
 
 ## Websites
 
