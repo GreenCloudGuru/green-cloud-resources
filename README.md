@@ -54,9 +54,10 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Company Leads
 * [Kate Brand - Chief Sustainability Officer at Google](https://www.linkedin.com/in/katebrandt)
+* [Margaret O'Toole - WW Tech Leader - Sustainability at AWS](https://www.linkedin.com/in/margaret-o-toole-580134127/)
 
 ## Books
 * [101 Green Software](https://leanpub.com/green-software)
 
 ## Concepts
-* [Scope 1, 2 and 3 emissions](https://www.nationalgrid.com/stories/energy-explained/what-are-scope-1-2-3-carbon-emissions#:~:text=Definitions%20of%20scope%201%2C%202,owned%20or%20controlled%20by%20it)
+* [Greenhouse Gas Protocol](https://ghgprotocol.org/)
