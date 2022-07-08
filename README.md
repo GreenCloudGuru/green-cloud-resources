@@ -21,7 +21,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Other Companies
 * [Subak](https://subak.org/)
 
-## Assessment Tools
+## Cloud Assessment Tools
 * [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
 * [Microsoft Sustainability Calculator](https://azure.microsoft.com/en-gb/blog/microsoft-sustainability-calculator-helps-enterprises-analyze-the-carbon-emissions-of-their-it-infrastructure/)
 * [AWS Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/)
@@ -30,6 +30,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Other Tools
 * [Green Language Advisor](https://4uocac2xn5.execute-api.eu-central-1.amazonaws.com/default/antal-test)
+* [Website Carbon](https://www.websitecarbon.com/)
 
 ## Frameworks
 * [Sustainability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html)
@@ -59,6 +60,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Books
 * [101 Green Software](https://leanpub.com/green-software)
+* [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design/)
 
 ## Concepts
 * [Greenhouse Gas Protocol](https://ghgprotocol.org/)
