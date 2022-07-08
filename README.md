@@ -44,6 +44,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Google Cloud Sustainability Summit](https://www.youtube.com/watch?v=FZ94wZPgsec)
 * [AWS Summit Brussels 2022](https://www.youtube.com/watch?v=IHJkbg3jqVg)
 * [AWS re:Invent 2021](https://www.youtube.com/watch?v=3-Zq2W1-odU&list=TLPQMDMwNzIwMjK93VpsS1cY8w)
+* [Infrastructure & Ops Hour: Cloud Providers and Sustainability with Anne Currie](https://learning.oreilly.com/videos/infrastructure-ops/0636920586548/0636920586548-video334706/)
 
 ## Meetup Communities
 * [Working in Sustainable Technology](https://www.meetup.com/Working-In-Sustainable-Technology/)
@@ -61,3 +62,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Concepts
 * [Greenhouse Gas Protocol](https://ghgprotocol.org/)
+* [The Climate Pledge](https://www.theclimatepledge.com/)
+
+## Courses
+* [Net-Zero](https://www.etrify.com/net-zero)
