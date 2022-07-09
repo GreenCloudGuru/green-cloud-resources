@@ -45,6 +45,9 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Events
 * [Green Hackathon](https://www.greenhackathon.com/)
 
+## Talks
+* [What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative?](https://www.youtube.com/watch?v=HXEnbi64TdQ)
+
 ## Recorded Events
 * [Google Cloud Sustainability Summit](https://www.youtube.com/watch?v=FZ94wZPgsec)
 * [AWS Summit Brussels 2022](https://www.youtube.com/watch?v=IHJkbg3jqVg)
@@ -75,3 +78,5 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Articles
 * [How efficient code increases sustainability in the enterprise](https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/)
+* [Green software certification, legislation in the works](https://www.techtarget.com/searchsoftwarequality/news/252521809/Green-software-certification-legislation-in-the-works)
+* [Microsoft Urges AI Compute Carbon Intensity Awareness](https://www.sdxcentral.com/articles/news/microsoft-urges-ai-compute-carbon-intensity-awareness/2022/06/)
