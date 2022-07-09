@@ -11,6 +11,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Organisations
 * [Green Software Foundation (GSF)](https://greensoftware.foundation/)
 * [Green Web Foundation](https://www.thegreenwebfoundation.org/)
+* [ClimateAction.tech](https://climateaction.tech/)
 
 ## Public Cloud Providers
 * [Google Sustainability](https://sustainability.google/)
@@ -41,6 +42,9 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Youtube Channels
 * [Green Software Foundation](https://www.youtube.com/channel/UCj0m2KL1yQzcCbmSj7AaAoA)
 
+## Events
+* [Green Hackathon](https://www.greenhackathon.com/)
+
 ## Recorded Events
 * [Google Cloud Sustainability Summit](https://www.youtube.com/watch?v=FZ94wZPgsec)
 * [AWS Summit Brussels 2022](https://www.youtube.com/watch?v=IHJkbg3jqVg)
@@ -68,3 +72,6 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Courses
 * [Net-Zero](https://www.etrify.com/net-zero)
+
+## Articles
+* [How efficient code increases sustainability in the enterprise](https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/)
