@@ -11,6 +11,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Organisations
 * [Green Software Foundation (GSF)](https://greensoftware.foundation/)
 * [Green Web Foundation](https://www.thegreenwebfoundation.org/)
+* [FinOps Foundation](https://www.finops.org/introduction/what-is-finops/)
 * [ClimateAction.tech](https://climateaction.tech/)
 
 ## Public Cloud Providers
@@ -44,6 +45,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Events
 * [Green Hackathon](https://www.greenhackathon.com/)
+* [TechUK: Tech and Net Zero Conference](https://www.techuk.org/tech-and-net-zero-conference.html)
 
 ## Talks
 * [What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative?](https://www.youtube.com/watch?v=HXEnbi64TdQ)
