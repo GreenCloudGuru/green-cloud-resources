@@ -33,6 +33,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Other Tools
 * [Green Language Advisor](https://4uocac2xn5.execute-api.eu-central-1.amazonaws.com/default/antal-test)
 * [Website Carbon](https://www.websitecarbon.com/)
+* [Nordcloud Klarity](https://klarity.nordcloud.com/blog/join-greenops-revolution-with-klarity/)
 
 ## Frameworks
 * [Sustainability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html)
@@ -82,3 +83,6 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [How efficient code increases sustainability in the enterprise](https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/)
 * [Green software certification, legislation in the works](https://www.techtarget.com/searchsoftwarequality/news/252521809/Green-software-certification-legislation-in-the-works)
 * [Microsoft Urges AI Compute Carbon Intensity Awareness](https://www.sdxcentral.com/articles/news/microsoft-urges-ai-compute-carbon-intensity-awareness/2022/06/)
+* [Green AI tackles effects of AI, ML on climate change](https://www.techtarget.com/searchenterpriseai/feature/Green-AI-tackles-effects-of-AI-ML-on-climate-change)
+* [Identify and reduce your cloud carbon footprint](https://klarity.nordcloud.com/blog/join-greenops-revolution-with-klarity/)
+* [Thoughtworks Green Cloud](https://www.thoughtworks.com/en-gb/what-we-do/enterprise-modernization-platforms-cloud/green-cloud)
