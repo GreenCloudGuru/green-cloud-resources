@@ -13,6 +13,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Green Web Foundation](https://www.thegreenwebfoundation.org/)
 * [FinOps Foundation](https://www.finops.org/introduction/what-is-finops/)
 * [ClimateAction.tech](https://climateaction.tech/)
+* [Sustainable Digital Infrastructure Alliance](https://sdialliance.org/)
 
 ## Public Cloud Providers
 * [Google Sustainability](https://sustainability.google/)
@@ -75,6 +76,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Concepts
 * [Greenhouse Gas Protocol](https://ghgprotocol.org/)
 * [The Climate Pledge](https://www.theclimatepledge.com/)
+* [Software Carbon Intensity (SCI) Specification](https://greensoftware.foundation/projects/software-carbon-intensity-sci-specification)
 
 ## Courses
 * [Net-Zero](https://www.etrify.com/net-zero)
