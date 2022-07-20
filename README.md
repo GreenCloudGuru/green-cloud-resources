@@ -38,6 +38,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 
 ## Frameworks
 * [Sustainability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html)
+* [Green Software Patterns](https://patterns.greensoftware.foundation/)
 
 ## Podcasts
 * [Environment Variables (GSF)](https://podcast.greensoftware.foundation/)
