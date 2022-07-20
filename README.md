@@ -22,7 +22,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Amazon Web Services](https://aws.amazon.com/sustainability/)
 
 ## Other Companies
-* [Subak](https://subak.org/)
+* [Subak - data-driven climate projects](https://subak.org/)
 
 ## Cloud Assessment Tools
 * [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
@@ -77,9 +77,12 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Greenhouse Gas Protocol](https://ghgprotocol.org/)
 * [The Climate Pledge](https://www.theclimatepledge.com/)
 * [Software Carbon Intensity (SCI) Specification](https://greensoftware.foundation/projects/software-carbon-intensity-sci-specification)
+* [Software Carbon Intensity (SCI) Specification](https://github.com/Green-Software-Foundation/software_carbon_intensity/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md)
+* [Net-Zero](https://netzeroclimate.org/)
 
 ## Courses
 * [Net-Zero](https://www.etrify.com/net-zero)
+* [Greenhouse Gas Protocol Training](https://www.gotostage.com/channel/5d8590bbabb14874a93f9c795b81d684?tos=true&ticket=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0MTg3OTMyOTkyMTg3MjAzIiwiYXVkIjoiMTAxIiwib2duIjoibGkiLCJscyI6ImVmYWVjNjkyLThmZjEtNDVmMC05OGRkLTJiNmQ2ZjViMzA5OSIsImV4cCI6MTY1ODA2NTc2MCwidHlwZSI6MSwianRpIjoiODU3ZTRjODktNzYzNy00NDkxLThkNDEtNTc4MTU1ZTk0NGNhIiwidGVuYW50IjoiJGRlZmF1bHQiLCJ0Z3RleHAiOjE2NTgwNzYzODB9.CtqaSiJtEjwhYltk_nZl8YRunVMZmZSMnGNmysuN8Xs)
 
 ## Articles
 * [How efficient code increases sustainability in the enterprise](https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/)
@@ -88,3 +91,4 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Green AI tackles effects of AI, ML on climate change](https://www.techtarget.com/searchenterpriseai/feature/Green-AI-tackles-effects-of-AI-ML-on-climate-change)
 * [Identify and reduce your cloud carbon footprint](https://klarity.nordcloud.com/blog/join-greenops-revolution-with-klarity/)
 * [Thoughtworks Green Cloud](https://www.thoughtworks.com/en-gb/what-we-do/enterprise-modernization-platforms-cloud/green-cloud)
+* [Sustainable business: 5 tips to boost code efficiency](https://enterprisersproject.com/article/2022/7/sustainable-business-5-tips-boost-code-efficiency)
