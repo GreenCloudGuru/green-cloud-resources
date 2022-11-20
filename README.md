@@ -93,3 +93,4 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Identify and reduce your cloud carbon footprint](https://klarity.nordcloud.com/blog/join-greenops-revolution-with-klarity/)
 * [Thoughtworks Green Cloud](https://www.thoughtworks.com/en-gb/what-we-do/enterprise-modernization-platforms-cloud/green-cloud)
 * [Sustainable business: 5 tips to boost code efficiency](https://enterprisersproject.com/article/2022/7/sustainable-business-5-tips-boost-code-efficiency)
+* [How to write greener Java applications](https://www.redhat.com/en/resources/greener-java-applications-detail)
