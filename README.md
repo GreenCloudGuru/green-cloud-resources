@@ -95,4 +95,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Sustainable business: 5 tips to boost code efficiency](https://enterprisersproject.com/article/2022/7/sustainable-business-5-tips-boost-code-efficiency)
 * [Go: Around The World - Oslo, Norway - Climate Action and Consultancies](https://www.jaminologist.com/go-around-the-world-oslo-norway-climate-action-and-consultancies/)
 * [How to write greener Java applications](https://www.redhat.com/en/resources/greener-java-applications-detail)
+
+## Company Guides
 * [Sustainability Guide for Salesforce Technology](https://www.salesforce.com/content/dam/web/en_us/www/documents/guides/sustainability-guide-for-salesforce-technology.pdf)
+* [Atlassian](https://wac-cdn.atlassian.com/dam/jcr:67b6c9fd-762e-4af3-8f20-b7e747005cc7/Atlassian%20Don't%20%23@!%25%20The%20Planet%20Resource.pdf?cdnVersion=1023)
