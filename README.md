@@ -58,6 +58,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [AWS Summit Brussels 2022](https://www.youtube.com/watch?v=IHJkbg3jqVg)
 * [AWS re:Invent 2021](https://www.youtube.com/watch?v=3-Zq2W1-odU&list=TLPQMDMwNzIwMjK93VpsS1cY8w)
 * [Infrastructure & Ops Hour: Cloud Providers and Sustainability with Anne Currie](https://learning.oreilly.com/videos/infrastructure-ops/0636920586548/0636920586548-video334706/)
+* [DevSusOps - Bringing Sustainability Concerns to Development and Operations](https://www.infoq.com/presentations/devsusops/)
 
 ## Meetup Communities
 * [Working in Sustainable Technology](https://www.meetup.com/Working-In-Sustainable-Technology/)
