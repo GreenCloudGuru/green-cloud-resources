@@ -74,6 +74,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Books
 * [101 Green Software](https://leanpub.com/green-software)
 * [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design/)
+* [Building Green Software](https://www.oreilly.com/library/view/building-green-software/9781098150617)
 
 ## Concepts
 * [Greenhouse Gas Protocol](https://ghgprotocol.org/)
