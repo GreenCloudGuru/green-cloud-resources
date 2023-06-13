@@ -49,6 +49,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Events
 * [Green Hackathon](https://www.greenhackathon.com/)
 * [TechUK: Tech and Net Zero Conference](https://www.techuk.org/tech-and-net-zero-conference.html)
+* [Writing Greener Java Applications](https://www.devoxx.co.uk/talk/?id=1965)
 
 ## Talks
 * [What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative?](https://www.youtube.com/watch?v=HXEnbi64TdQ)
