@@ -99,6 +99,9 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Go: Around The World - Oslo, Norway - Climate Action and Consultancies](https://www.jaminologist.com/go-around-the-world-oslo-norway-climate-action-and-consultancies/)
 * [How to write greener Java applications](https://www.redhat.com/en/resources/greener-java-applications-detail)
 
+## Workshops
+* [AWS Well Architectured - Sustainability](https://catalog.workshops.aws/well-architected-sustainability
+
 ## Reports
 * [2023 State of Green Software](https://stateof.greensoftware.foundation/)
 
