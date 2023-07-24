@@ -100,7 +100,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [How to write greener Java applications](https://www.redhat.com/en/resources/greener-java-applications-detail)
 
 ## Workshops
-* [AWS Well Architectured - Sustainability](https://catalog.workshops.aws/well-architected-sustainability
+* [AWS Well Architectured - Sustainability](https://catalog.workshops.aws/well-architected-sustainability)
 
 ## Reports
 * [2023 State of Green Software](https://stateof.greensoftware.foundation/)
