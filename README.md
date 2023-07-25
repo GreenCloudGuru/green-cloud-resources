@@ -98,6 +98,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Sustainable business: 5 tips to boost code efficiency](https://enterprisersproject.com/article/2022/7/sustainable-business-5-tips-boost-code-efficiency)
 * [Go: Around The World - Oslo, Norway - Climate Action and Consultancies](https://www.jaminologist.com/go-around-the-world-oslo-norway-climate-action-and-consultancies/)
 * [How to write greener Java applications](https://www.redhat.com/en/resources/greener-java-applications-detail)
+* [Managing carbon emissions across clouds: a practical example](https://cloud.google.com/blog/topics/sustainability/how-thoughtworks-uses-cloud-carbon-footprint-for-sustainability)
 
 ## Workshops
 * [AWS Well Architectured - Sustainability](https://catalog.workshops.aws/well-architected-sustainability)
