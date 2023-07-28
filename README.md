@@ -30,6 +30,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [AWS Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/)
 * [Cloud Carbon Footprint (Open Source)](https://www.cloudcarbonfootprint.org/)
 * [Google Carbon Sense Suite](https://cloud.google.com/blog/topics/sustainability/reduce-your-cloud-carbon-footprint-with-active-assist)
+* [IBM Cloud® Carbon Calculator](https://cloud.ibm.com/media/docs/downloads/billing-usage/carbon-calc-method.pdf)
 
 ## Other Tools
 * [Green Language Advisor](https://4uocac2xn5.execute-api.eu-central-1.amazonaws.com/default/antal-test)
