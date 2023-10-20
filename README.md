@@ -107,3 +107,12 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 ## Company Guides
 * [Sustainability Guide for Salesforce Technology](https://www.salesforce.com/content/dam/web/en_us/www/documents/guides/sustainability-guide-for-salesforce-technology.pdf)
 * [Atlassian](https://wac-cdn.atlassian.com/dam/jcr:67b6c9fd-762e-4af3-8f20-b7e747005cc7/Atlassian%20Don't%20%23@!%25%20The%20Planet%20Resource.pdf?cdnVersion=1023)
+* [Google - Go Green Software](https://services.google.com/fh/files/misc/google_cloud_go_green_software_ebook.pdf
+  )
+
+## Interesting Projects
+
+* [Heta - compute powered water heating](https://www.heata.co/company/heata-unit)
+* [Evroc - European sustainable cloud](https://evroc.com/)
+* [Deep Green - Climate friendly computing](https://deepgreen.energy/)
+
