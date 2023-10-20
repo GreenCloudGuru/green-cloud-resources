@@ -96,3 +96,9 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Go: Around The World - Oslo, Norway - Climate Action and Consultancies](https://www.jaminologist.com/go-around-the-world-oslo-norway-climate-action-and-consultancies/)
 * [How to write greener Java applications](https://www.redhat.com/en/resources/greener-java-applications-detail)
 * [How slimmed-down websites can cut their carbon emissions](https://www.bbc.co.uk/news/business-64623955)
+
+## Interesting Projects
+
+* [Heta - compute powered water heating](https://www.heata.co/company/heata-unit)
+* [Evroc - European sustainable cloud](https://evroc.com/)
+* [Deep Green - Climate friendly computing](https://deepgreen.energy/)
