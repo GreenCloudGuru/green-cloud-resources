@@ -30,6 +30,7 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [AWS Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/)
 * [Cloud Carbon Footprint (Open Source)](https://www.cloudcarbonfootprint.org/)
 * [Google Carbon Sense Suite](https://cloud.google.com/blog/topics/sustainability/reduce-your-cloud-carbon-footprint-with-active-assist)
+* [IBM Cloud® Carbon Calculator](https://cloud.ibm.com/media/docs/downloads/billing-usage/carbon-calc-method.pdf)
 
 ## Other Tools
 * [Green Language Advisor](https://4uocac2xn5.execute-api.eu-central-1.amazonaws.com/default/antal-test)
@@ -95,10 +96,14 @@ Managed by [Green Cloud Guru](https://greencloud.guru).
 * [Sustainable business: 5 tips to boost code efficiency](https://enterprisersproject.com/article/2022/7/sustainable-business-5-tips-boost-code-efficiency)
 * [Go: Around The World - Oslo, Norway - Climate Action and Consultancies](https://www.jaminologist.com/go-around-the-world-oslo-norway-climate-action-and-consultancies/)
 * [How to write greener Java applications](https://www.redhat.com/en/resources/greener-java-applications-detail)
-* [How slimmed-down websites can cut their carbon emissions](https://www.bbc.co.uk/news/business-64623955)
+* [Managing carbon emissions across clouds: a practical example](https://cloud.google.com/blog/topics/sustainability/how-thoughtworks-uses-cloud-carbon-footprint-for-sustainability)
 
-## Interesting Projects
+## Workshops
+* [AWS Well Architectured - Sustainability](https://catalog.workshops.aws/well-architected-sustainability)
 
-* [Heta - compute powered water heating](https://www.heata.co/company/heata-unit)
-* [Evroc - European sustainable cloud](https://evroc.com/)
-* [Deep Green - Climate friendly computing](https://deepgreen.energy/)
+## Reports
+* [2023 State of Green Software](https://stateof.greensoftware.foundation/)
+
+## Company Guides
+* [Sustainability Guide for Salesforce Technology](https://www.salesforce.com/content/dam/web/en_us/www/documents/guides/sustainability-guide-for-salesforce-technology.pdf)
+* [Atlassian](https://wac-cdn.atlassian.com/dam/jcr:67b6c9fd-762e-4af3-8f20-b7e747005cc7/Atlassian%20Don't%20%23@!%25%20The%20Planet%20Resource.pdf?cdnVersion=1023)
